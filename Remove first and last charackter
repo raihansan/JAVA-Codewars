@@ -1,0 +1,6 @@
+public class RemoveChars {
+
+    public static String remove(final String text) {
+        return text.substring(1, text.length() - 0);
+    }
+}
